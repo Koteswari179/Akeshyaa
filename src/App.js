@@ -1,25 +1,3 @@
-// import './App.css';
-// import Home from './components/Home';
-// import Demo from './components/Demo';
-// import 'bootstrap-icons/font/bootstrap-icons.css';
-// import 'boxicons/css/boxicons.min.css';
-// import 'aos/dist/aos.css';
-// // index.js or App.js
-// import 'remixicon/fonts/remixicon.css';
-// import Success from './components/Success';
-
-
-// function App() {
-//   return (
-//     <div className="App">
-//       <Home/>
-//       {/* <Demo/> */}
-//       <Success />
-//     </div>
-//   );
-// }
-
-// export default App;
 
 
 import React from 'react';
